@@ -1,0 +1,22 @@
+body{
+    background-color:#d3d3d3;
+}
+.titulo {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+.subtitulo{
+    color: blue;
+    background-color: white;
+}
+.p{
+    background-color: white;
+    color: orange;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 9px;
+}
